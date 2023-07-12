@@ -1,0 +1,15 @@
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\bin\Debug\net7.0\NumbersGame.exe
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\bin\Debug\net7.0\NumbersGame.deps.json
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\bin\Debug\net7.0\NumbersGame.runtimeconfig.json
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\bin\Debug\net7.0\NumbersGame.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\bin\Debug\net7.0\NumbersGame.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.csproj.AssemblyReference.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.AssemblyInfo.cs
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\refint\NumbersGame.dll
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.pdb
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\NumbersGame.genruntimeconfig.cache
+C:\Users\Marce\OneDrive\Documents\GitHub\NumbersGame\NumbersGame\obj\Debug\net7.0\ref\NumbersGame.dll
